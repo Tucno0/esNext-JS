@@ -2,7 +2,9 @@ import './style.css'
 import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
 
-import "./01-arrays/01-array-with.js";
+// import "./01-arrays/01-array-structured-clone";
+// import "./01-arrays/02-array-with";
+import "./01-arrays/03-array-to-methods";
 
 document.querySelector('#app').innerHTML = `
   <div>
